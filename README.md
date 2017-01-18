@@ -1,4 +1,4 @@
-<h1>Any Ruby on Rails devs looking for work?</h1>
+<h1>Any Ruby on Rails devs looking for work? Need some help :)</h1>
 
 <h1>HMS Dreadnought</h1>
 <h4>Steaming at ya</h4>
