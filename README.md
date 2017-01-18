@@ -1,3 +1,5 @@
+<h1>Any Ruby on Rails devs looking for work?</h1>
+
 <h1>HMS Dreadnought</h1>
 <h4>Steaming at ya</h4>
 <h6>Sunday morning symbolism b*tch</h6>
@@ -5,6 +7,3 @@
 <img src="http://combiboilersleeds.com/images/obsolete/obsolete-8.jpg" alt="obsolete" style="width:304px;height:228px;">
 
 <h4>Get it?</h4>
-
-<h1>"G Banger"</h1>
-
